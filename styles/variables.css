@@ -2,3 +2,21 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+
+:root {
+  --bg-dark: url(../images/cover-image-dark.png);
+  --font-family:  'IBM Plex mono';
+  --accent-color: #ff0070;
+  --tx-dis-color: #f1b2ce;
+  --bg-color: #000028;
+  --tx-no-focus: #db00ff;
+  --border-color: #ff0070;
+  --border-color-focus: rgba(255, 0, 112, 0.4);
+  --rec-color: #ff0070;
+  --point-color: #ff0070;
+  --point-shadow-color: #ff0070;
+  }
+
+/* Файл light.css */
+
