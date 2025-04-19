@@ -14,7 +14,7 @@
   grid-template-rows: 1fr min-content 1fr;
   align-items: center;
   height: max(100vh, 668px);
-  padding-inline: 10px; 
+  padding-inline: 10px;
   padding-block-start: 10px;
 }
 /* с точкой и уголом*/
